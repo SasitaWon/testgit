@@ -1,0 +1,3 @@
+1. How many years of experience related to the position that you applied?
+
+>> I don't have work experience before,but I have study project about Web Application use by Angular6 and springboot in topic Veterinary clinic.
